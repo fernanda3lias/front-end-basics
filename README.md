@@ -7,7 +7,7 @@
 
 - `Meteora`: Alura Bootstrap5: create a responsive landing page
 
-<img src='previews/Meteora.GIF' width='800px'>
+<img src='preview/Meteora.GIF' width='800px'>
 
 <h2>Thank you very much!</h2>
 
